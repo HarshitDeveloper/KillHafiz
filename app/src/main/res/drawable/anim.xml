@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+    <animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true"
+        >
+<item
+    android:duration="50"
+    android:drawable="@drawable/aa"/>
+    <item
+        android:duration="50"
+        android:drawable="@drawable/bb"/>
+    <item
+        android:duration="50"
+        android:drawable="@drawable/cc"/>
+    <item
+        android:duration="50"
+        android:drawable="@drawable/dd"/>
+    <item
+        android:duration="50"
+        android:drawable="@drawable/ee"/>
+
+
+</animation-list>
+<!--</selector>-->
